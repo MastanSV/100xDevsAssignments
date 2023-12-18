@@ -1,0 +1,1 @@
+Hi, am automatically written by writeFile fs library
